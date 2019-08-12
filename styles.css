@@ -454,7 +454,7 @@ footer {
     /* hero content */
 
     .content {
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: none;
     }
 
     .content picture,
